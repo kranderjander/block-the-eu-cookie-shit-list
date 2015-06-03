@@ -878,6 +878,8 @@ www.lagazettedescommunes.com###bandeauCookies
 www.ldlc-pro.com###privacy div#container
 www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-position closableContainer"]
 zonaforo.meristation.com##.inner
+pzc.nl##DIV[id="st_overlay"][class="stElement"]
+pzc.nl##DIV[id="st_popup"][class="stElement"]
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script
 ||app.cookieassistant.com/widget$script
 ||assets.cookieconsent.silktide.com^
